@@ -1,2 +1,0 @@
-# AnyRouter 账号配置
-#ANYROUTER_ACCOUNTS=[{"cookies":{"session":"你的session值"},"api_user":"你的api_user值"}]
